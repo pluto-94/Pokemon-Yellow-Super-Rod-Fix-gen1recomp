@@ -1,0 +1,17 @@
+{
+  "id": "yellow_super_rod_fix",
+  "name": "Pokemon Yellow Super Rod Fix",
+  "version": "2.0.0",
+  "entry": "main.lua",
+  "api": 2,
+  "games": [
+    "yellow"
+  ],
+  "profile": "overhaul",
+  "category": "MECHANIC",
+  "priority": 200,
+  "dependencies": [],
+  "optional_dependencies": [],
+  "conflicts": [],
+  "description": "Restores Pokemon Yellow Super Rod pools, levels, slot weighting, and bite behavior in gen1recomp."
+}
